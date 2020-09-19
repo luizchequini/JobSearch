@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JobSearch.App.Views.Visualizer">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40"/>
+                </Grid.RowDefinitions>
+                <ImageButton Style="{StaticResource BackButton}" Clicked="GoBack" />
+                <Label Text="JobSearch" Grid.Column="1" Style="{StaticResource Title}" />
+            </Grid>
+
+            <BoxView Color="#D7CCFF" HeightRequest="1"/>
+            
+            <ScrollView>
+                <StackLayout>
+                    <Grid RowSpacing="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="3*"/>
+                            <ColumnDefinition Width="2*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+
+                        <Label Text="Easy Projetos" Style="{StaticResource CompanyCityStateLabel}"/>
+                        <Label Style="{StaticResource JobTitleLabel}" Grid.Column="1" HorizontalOptions="End">
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="Pub. "/>
+                                    <Span Text="19/09/2020"/>
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+
+                        <Label Text="Back-End Developer" Style="{StaticResource JobTitleLabel}" Grid.Row="1"/>
+                        <Label Style="{StaticResource IdLabel}" Grid.Row="1" Grid.Column="1" >
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="id. " Style="{StaticResource MoneyLabel}"/>
+                                    <Span Text="12345" Style="{StaticResource CurrencyLabel}"/>
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+
+                        <Label Text="São Paulo, SP" Style="{StaticResource CompanyCityStateLabel}" Grid.Row="2"/>
+                        <Label Grid.Row="3" Grid.ColumnSpan="2">
+                            <Label.FormattedText>
+                                <FormattedString>
+                                    <Span Text="7.0-11k, " Style="{StaticResource MoneyLabel}"/>
+                                    <Span Text="BRL" Style="{StaticResource CurrencyLabel}"/>
+                                </FormattedString>
+                            </Label.FormattedText>
+                        </Label>
+                        <Label Text="CLT" Style="{StaticResource JobTitleLabel}" Grid.Row="4"/>
+                        <Label Text="C++, Node" Grid.Row="5"/>
+                    </Grid>
+
+
+                    <Label Text="Interessados enviar e-mail para:"  Style="{StaticResource JobTitleLabel}"/>
+                    <Label Text="rh@sigaideia.com.br" Style="{StaticResource CompanyCityStateLabel}"/>
+
+                    <BoxView Color="#DCDCDC" HeightRequest="1"/>
+
+                    <Label Text="Descrição da empresa" Style="{StaticResource MoneyLabel}"/>
+                    <Label Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." Style="{StaticResource JobTitleLabel}"/>
+
+                    <Label Text="Descrição do trabalho" Style="{StaticResource MoneyLabel}"/>
+                    <Label Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." Style="{StaticResource JobTitleLabel}"/>
+
+                    <Label Text="Benefícios" Style="{StaticResource MoneyLabel}"/>
+                    <Label Text="Vale Transporte" Style="{StaticResource JobTitleLabel}"/>
+                    <Label Text="Vale Alimentação" Style="{StaticResource JobTitleLabel}"/>
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -9,7 +9,10 @@
                     <ColumnDefinition Width="50"/>
                     <ColumnDefinition/>
                 </Grid.ColumnDefinitions>
-                <Button Text="&#60;&#60;" Clicked="GoBack" HeightRequest="5" Padding="0" />
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40"/>
+                </Grid.RowDefinitions>
+                <ImageButton Style="{StaticResource BackButton}" Clicked="GoBack" />
                 <Label Text="JobSearch" Grid.Column="1" Style="{StaticResource Title}" />
             </Grid>
             
