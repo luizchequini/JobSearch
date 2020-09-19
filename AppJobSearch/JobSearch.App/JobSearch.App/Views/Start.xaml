@@ -10,7 +10,7 @@
                     <ColumnDefinition Width="1*"/>
                 </Grid.ColumnDefinitions>
                 <Label Text="JobSearch" Style="{StaticResource Title}" />
-                <Button Text="+Add Job" Grid.Column="1" />
+                <Button Text="+Add Job" Clicked="GoRegisterJob" Grid.Column="1" />
             </Grid>
             
             <BoxView Color="#D7CCFF" HeightRequest="1"/>
@@ -24,7 +24,14 @@
                     <RowDefinition/>
                 </Grid.RowDefinitions>
                 <Frame StyleClass="EntryFrame" Grid.Row="0" Grid.ColumnSpan="2">
-                    <Entry Placeholder="Pesquisa"/>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="50"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <ImageButton Source="search.png" StyleClass="SearchButton"/>
+                        <Entry Placeholder="Pesquisa" Grid.Column="1"/>
+                    </Grid>
                 </Frame>
                 <Frame StyleClass="EntryFrame" Grid.Row="1">
                     <Entry Placeholder="Cidade/UF" IsPassword="True"/>

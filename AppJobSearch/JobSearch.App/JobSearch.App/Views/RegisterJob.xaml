@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JobSearch.App.Views.RegisterJob">
+    <ContentPage.Content>
+        <StackLayout>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40"/>
+                </Grid.RowDefinitions>
+                <ImageButton Style="{StaticResource BackButton}" Clicked="GoBack" />
+                <Label Text="JobSearch" Grid.Column="1" Style="{StaticResource Title}" />
+            </Grid>
+
+            <BoxView Color="#D7CCFF" HeightRequest="1"/>
+            
+            <ScrollView>
+                <StackLayout>
+                    <Frame StyleClass="EntryFrame" Margin="0,20,0,0">
+                        <Entry Placeholder="Empresa"/>
+                    </Frame>
+                    <Frame StyleClass="EntryFrame">
+                        <Entry Placeholder="Cargo"/>
+                    </Frame>
+                    <Frame StyleClass="EntryFrame">
+                        <Entry Placeholder="Cidade/UF"/>
+                    </Frame>
+                    <Frame StyleClass="EntryFrame">
+                        <Entry Placeholder="Salário"/>
+                    </Frame>
+                    <Frame StyleClass="EntryFrame">
+                        <Entry Placeholder="Empresa"/>
+                    </Frame>
+                    <Frame StyleClass="EntryFrame">
+                        <Entry Placeholder="Regime"/>
+                    </Frame>
+                    <Frame StyleClass="EntryFrame">
+                        <Entry Placeholder="Empresa"/>
+                    </Frame>
+                    <Frame StyleClass="EntryFrame">
+                        <Entry Placeholder="Tecnologias/Ferramentas"/>
+                    </Frame>
+                    <Frame StyleClass="EntryFrame">
+                        <Editor AutoSize="TextChanges" Placeholder="Descrição da empresa"/>
+                    </Frame>
+                    <Frame StyleClass="EntryFrame">
+                        <Editor AutoSize="TextChanges" Placeholder="Descrição do trabalho"/>
+                    </Frame>
+                    <Frame StyleClass="EntryFrame">
+                        <Editor AutoSize="TextChanges" Placeholder="Benefícios"/>
+                    </Frame>
+                    <Frame StyleClass="EntryFrame">
+                        <Entry Placeholder="E-mail"/>
+                    </Frame>
+                </StackLayout>
+            </ScrollView>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

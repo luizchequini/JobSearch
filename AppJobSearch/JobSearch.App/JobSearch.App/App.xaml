@@ -22,7 +22,7 @@
 
             <Style TargetType="ContentPage" ApplyToDerivedTypes="True">
                 <Setter Property="BackgroundColor" Value="{StaticResource White}"/>
-                <Setter Property="Padding" Value="20"/>
+                <Setter Property="Padding" Value="15, 15, 15, 0"/>
                 <Setter Property="NavigationPage.HasNavigationBar" Value="False"/>
             </Style>
             
@@ -41,7 +41,14 @@
                 <Setter Property="TextColor" Value="{StaticResource Black}"/>
                 <Setter Property="PlaceholderColor" Value="{StaticResource DarkGrayBlue}"/>
                 <Setter Property="FontFamily" Value="MontserratRegular"/>
-                <Setter Property="FontSize" Value="20"/>
+                <Setter Property="FontSize" Value="15"/>
+            </Style>
+
+            <Style TargetType="Editor">
+                <Setter Property="TextColor" Value="{StaticResource Black}"/>
+                <Setter Property="PlaceholderColor" Value="{StaticResource DarkGrayBlue}"/>
+                <Setter Property="FontFamily" Value="MontserratRegular"/>
+                <Setter Property="FontSize" Value="15"/>
             </Style>
 
             <Style TargetType="Button">
@@ -89,6 +96,12 @@
                 <Setter Property="HorizontalOptions" Value="End"/>
                 <Setter Property="VerticalOptions" Value="End"/>
             </Style>
+            
+            <!--Icones-->
+            <Style TargetType="ImageButton" Class="SearchButton">
+                
+            </Style>
+            
         </ResourceDictionary>
     </Application.Resources>
 </Application>
