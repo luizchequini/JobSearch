@@ -4,6 +4,7 @@
              x:Class="JobSearch.App.App">
     <Application.Resources>
         <ResourceDictionary>
+            
             <Color x:Key="White">#FFFFFF</Color>
             <Color x:Key="Black">#000000</Color>
             <Color x:Key="Purple">#623CEA</Color>
@@ -28,9 +29,9 @@
             
             <Style TargetType="Label" x:Key="Title">
                 <Setter Property="FontFamily" Value="MontserratBold"/>
-                <Setter Property="FontSize" Value="20"/>
-                <Setter Property="Margin" Value="0,0,0,10"/>
+                <Setter Property="FontSize" Value="22"/>
                 <Setter Property="TextColor" Value="{StaticResource Purple}"/>
+                <Setter Property="VerticalTextAlignment" Value="Center"/>
             </Style>
 
             <Style TargetType="Frame">
@@ -38,6 +39,7 @@
             </Style>
             
             <Style TargetType="Entry">
+                <Setter Property="BackgroundColor" Value="Transparent"/>
                 <Setter Property="TextColor" Value="{StaticResource Black}"/>
                 <Setter Property="PlaceholderColor" Value="{StaticResource DarkGrayBlue}"/>
                 <Setter Property="FontFamily" Value="MontserratRegular"/>
@@ -45,6 +47,7 @@
             </Style>
 
             <Style TargetType="Editor">
+                <Setter Property="BackgroundColor" Value="Transparent"/>
                 <Setter Property="TextColor" Value="{StaticResource Black}"/>
                 <Setter Property="PlaceholderColor" Value="{StaticResource DarkGrayBlue}"/>
                 <Setter Property="FontFamily" Value="MontserratRegular"/>
@@ -56,17 +59,40 @@
                 <Setter Property="TextColor" Value="{StaticResource White}"/>
                 <Setter Property="CornerRadius" Value="10"/>
                 <Setter Property="FontFamily" Value="MontserratRegular"/>
-                <Setter Property="FontSize" Value="15"/>
+                <Setter Property="FontSize" Value="12"/>
             </Style>
-            
+
+            <Style TargetType="Button" Class="AddButton">
+                <Setter Property="HeightRequest" Value="35"/>
+                <Setter Property="VerticalOptions" Value="Start"/>
+            </Style>
+
             <Style TargetType="ImageButton" x:Key="BackButton">
                 <Setter Property="BackgroundColor" Value="Transparent"/>
-                <Setter Property="WidthRequest" Value="29"/>
-                <Setter Property="HeightRequest" Value="10"/>
-                <Setter Property="HorizontalOptions" Value="Start"/>
+                <Setter Property="HeightRequest" Value="20"/>
+                <Setter Property="VerticalOptions" Value="Center"/>
                 <Setter Property="Padding" Value="0"/>
-                <Setter Property="Source" Value="back.png"/>
-                <!--TODO Source para UWP-->
+                <Setter Property="Source">
+                    <OnPlatform x:TypeArguments="FileImageSource">
+                        <On Platform="Android" Value="back.png"/>
+                        <On Platform="IOS" Value="back.png"/>
+                        <On Platform="UWP" Value="Images/back.png"/>
+                    </OnPlatform>
+                </Setter>
+            </Style>
+
+            <Style TargetType="ImageButton" x:Key="OkButton">
+                <Setter Property="BackgroundColor" Value="Transparent"/>
+                <Setter Property="HeightRequest" Value="30"/>
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="Padding" Value="0"/>
+                <Setter Property="Source">
+                    <OnPlatform x:TypeArguments="FileImageSource">
+                        <On Platform="Android" Value="ok.png"/>
+                        <On Platform="IOS" Value="ok.png"/>
+                        <On Platform="UWP" Value="Images/ok.png"/>
+                    </OnPlatform>
+                </Setter>
             </Style>
             
             <Style TargetType="Frame" Class="EntryFrame">
@@ -98,10 +124,32 @@
             </Style>
             
             <!--Icones-->
-            <Style TargetType="ImageButton" Class="SearchButton">
-                
+            <Style TargetType="ImageButton" x:Key="BaseImageButton">
+                <Setter Property="BackgroundColor" Value="Transparent"/>
+                <Setter Property="WidthRequest" Value="20"/>
+                <Setter Property="HorizontalOptions" Value="Start"/>
             </Style>
-            
+
+            <Style TargetType="ImageButton" Class="SearchButton" BasedOn="{StaticResource BaseImageButton}">
+                <Setter Property="Source">
+                    <OnPlatform x:TypeArguments="FileImageSource">
+                        <On Platform="Android" Value="search.png"/>
+                        <On Platform="IOS" Value="search.png"/>
+                        <On Platform="UWP" Value="Images/search.png"/>
+                    </OnPlatform>
+                </Setter>
+            </Style>
+
+            <Style TargetType="ImageButton" Class="CityStateButton" BasedOn="{StaticResource BaseImageButton}">
+                <Setter Property="Source">
+                    <OnPlatform x:TypeArguments="FileImageSource">
+                        <On Platform="Android" Value="pin.png"/>
+                        <On Platform="IOS" Value="pin.png"/>
+                        <On Platform="UWP" Value="Images/pin.png"/>
+                    </OnPlatform>
+                </Setter>
+            </Style>
+
         </ResourceDictionary>
     </Application.Resources>
 </Application>

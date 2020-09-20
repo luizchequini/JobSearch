@@ -8,12 +8,14 @@
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="50"/>
                     <ColumnDefinition/>
+                    <ColumnDefinition Width="50"/>
                 </Grid.ColumnDefinitions>
                 <Grid.RowDefinitions>
                     <RowDefinition Height="40"/>
                 </Grid.RowDefinitions>
                 <ImageButton Style="{StaticResource BackButton}" Clicked="GoBack" />
                 <Label Text="JobSearch" Grid.Column="1" Style="{StaticResource Title}" />
+                <ImageButton Style="{StaticResource OkButton}" Clicked="Save" Grid.Column="2" />
             </Grid>
 
             <BoxView Color="#D7CCFF" HeightRequest="1"/>
