@@ -10,6 +10,8 @@ using System.Threading.Tasks;
 
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Rg.Plugins.Popup.Extensions;
+using JobSearch.App.Utility.Load;
 
 namespace JobSearch.App.Views
 {
@@ -34,6 +36,8 @@ namespace JobSearch.App.Views
             string email = TxtEmail.Text;
             string password = TxtPassword.Text;
 
+            await Navigation.PushPopupAsync(new Load());
+
             ResponseService<User> responseService = await _service.GetUser(email, password);
 
             if (responseService.IsSuccess)
@@ -44,8 +48,17 @@ namespace JobSearch.App.Views
             }
             else
             {
-                await DisplayAlert("Erro!", "Nenhum usuário cadastrado!", "Ok");
+                if (responseService.StatusCode == 404)
+                {
+                    await DisplayAlert("Erro!", "Nenhum usuário cadastrado!", "Ok");
+                }
+                else
+                {
+                    await DisplayAlert("Erro!", "Ocorreu um erro inesperado!", "Ok");
+                }
             }
+
+            await Navigation.PopAllPopupAsync();
         }
     }
 }
