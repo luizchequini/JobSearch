@@ -63,7 +63,7 @@
             </Style>
 
             <Style TargetType="Button" Class="AddButton">
-                <Setter Property="HeightRequest" Value="35"/>
+                <Setter Property="HeightRequest" Value="45"/>
                 <Setter Property="VerticalOptions" Value="Start"/>
             </Style>
 
