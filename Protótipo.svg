@@ -1,0 +1,1021 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Protótipo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="464.0382"
+     inkscape:cy="330.85121"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="18.331844"
+       x="128.22862"
+       height="84.666664"
+       width="49.514877"
+       id="rect937"
+       style="fill:#ffffff;stroke:#003399;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text941"
+       y="24.581209"
+       x="132.09805"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#003399;stroke-width:0.264583"
+         y="24.581209"
+         x="132.09805"
+         id="tspan939"
+         sodipodi:role="line">&lt;&lt; JobSearch</tspan></text>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="path943"
+       d="m 131.46206,26.571636 h 44.63403"
+       style="fill:none;stroke:#003399;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="g1005"
+       transform="translate(0,-4.7624974)">
+      <g
+         transform="translate(0,7.9375038)"
+         id="g984">
+        <rect
+           y="54.239578"
+           x="131.72466"
+           height="6.4255953"
+           width="43.278275"
+           id="rect945"
+           style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill" />
+        <rect
+           style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill"
+           id="rect947"
+           width="43.278275"
+           height="6.4255953"
+           x="131.72466"
+           y="62.177078" />
+        <text
+           id="text963"
+           y="58.76582"
+           x="134.02602"
+           style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583"
+             y="58.76582"
+             x="134.02602"
+             id="tspan961"
+             sodipodi:role="line">E-mail</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="134.02602"
+           y="66.703316"
+           id="text967"><tspan
+             sodipodi:role="line"
+             id="tspan965"
+             x="134.02602"
+             y="66.703316"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">Senha</tspan></text>
+        <rect
+           style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill"
+           id="rect969"
+           width="43.278275"
+           height="6.4255953"
+           x="131.72466"
+           y="46.302074" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="134.02602"
+           y="50.828316"
+           id="text973"><tspan
+             sodipodi:role="line"
+             id="tspan971"
+             x="134.02602"
+             y="50.828316"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">Nome</tspan></text>
+      </g>
+      <g
+         transform="translate(0,-3.1750001)"
+         id="g989">
+        <rect
+           y="80.619728"
+           x="131.72466"
+           height="6.5819368"
+           width="20.518515"
+           id="rect949"
+           style="fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.380496;stroke-linecap:round;paint-order:markers stroke fill" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+           x="135.12477"
+           y="85.166435"
+           id="text955"><tspan
+             sodipodi:role="line"
+             id="tspan953"
+             x="135.12477"
+             y="85.166435"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:0.264583">Acessar</tspan></text>
+      </g>
+    </g>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="124.69431"
+       x="67.904922"
+       height="84.666664"
+       width="49.514877"
+       id="rect1131"
+       style="fill:#ffffff;stroke:#003399;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill" />
+    <g
+       id="g1139"
+       transform="translate(-17.991668,90.487505)" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text1143"
+       y="130.9437"
+       x="71.773064"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#003399;stroke-width:0.264583"
+         y="130.9437"
+         x="71.773064"
+         id="tspan1141"
+         sodipodi:role="line">&lt;&lt; JobSearch</tspan></text>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="path1145"
+       d="m 71.13704,132.93416 h 44.634"
+       style="fill:none;stroke:#003399;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text1151"
+       y="136.02414"
+       x="71.055229"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583"
+         y="136.02414"
+         x="71.055229"
+         id="tspan1149"
+         sodipodi:role="line">Empresa: Nome da Empresa</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.055229"
+       y="156.13243"
+       id="text1157"><tspan
+         sodipodi:role="line"
+         id="tspan1155"
+         x="71.055229"
+         y="156.13243"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">Título</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text1163"
+       y="139.30255"
+       x="71.055229"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583"
+         y="139.30255"
+         x="71.055229"
+         id="tspan1161"
+         sodipodi:role="line">Cidade-UF: São Paulo - SP</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.055229"
+       y="142.18716"
+       id="text1169"><tspan
+         sodipodi:role="line"
+         id="tspan1167"
+         x="71.055229"
+         y="142.18716"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">Salário: R$ 10.000,00</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text1175"
+       y="144.67802"
+       x="71.055229"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583"
+         y="144.67802"
+         x="71.055229"
+         id="tspan1173"
+         sodipodi:role="line">Tipo Contrato: PJ</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.055229"
+       y="147.5513"
+       id="text1181"><tspan
+         sodipodi:role="line"
+         id="tspan1179"
+         x="71.055229"
+         y="147.5513"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">Tecnologias: Asp.Net Core, Xamarin</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text1187"
+       y="164.07021"
+       x="71.055229"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583"
+         y="164.07021"
+         x="71.055229"
+         id="tspan1185"
+         sodipodi:role="line">Descrição Empresa</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.055229"
+       y="182.06194"
+       id="text1193"><tspan
+         sodipodi:role="line"
+         id="tspan1191"
+         x="71.055229"
+         y="182.06194"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">Descrição Vaga</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text1199"
+       y="200.05367"
+       x="71.055229"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583"
+         y="200.05367"
+         x="71.055229"
+         id="tspan1197"
+         sodipodi:role="line">Benefícios</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.055229"
+       y="150.84106"
+       id="text1205"><tspan
+         sodipodi:role="line"
+         id="tspan1203"
+         x="71.055229"
+         y="150.84106"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">E-mail: rh@contratacoes.com.br</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text1209"
+       y="158.77831"
+       x="71.055229"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583"
+         y="158.77831"
+         x="71.055229"
+         id="tspan1207"
+         sodipodi:role="line">Analista de Sistemas</tspan></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:#ffffff;stroke:#003399;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill"
+       id="rect833"
+       width="49.514877"
+       height="84.666664"
+       x="68.363541"
+       y="18.331844" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.432869"
+       y="24.581209"
+       id="text837"><tspan
+         sodipodi:role="line"
+         id="tspan835"
+         x="71.432869"
+         y="24.581209"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#003399;stroke-width:0.264583">JobSearch</tspan></text>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:none;stroke:#003399;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 70.796842,26.571636 H 115.43085"
+       id="path839" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="g1019"
+       transform="translate(2.8347996,-1.0583333)">
+      <rect
+         y="54.239578"
+         x="68.224701"
+         height="6.4255953"
+         width="43.278275"
+         id="rect857"
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill" />
+      <rect
+         style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill"
+         id="rect859"
+         width="43.278275"
+         height="6.4255953"
+         x="68.224701"
+         y="62.177078" />
+      <rect
+         y="70.0364"
+         x="68.224701"
+         height="6.5819368"
+         width="20.518515"
+         id="rect861"
+         style="fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.380496;stroke-linecap:round;paint-order:markers stroke fill" />
+      <rect
+         style="fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.380496;stroke-linecap:round;paint-order:markers stroke fill"
+         id="rect863"
+         width="20.518515"
+         height="6.5819368"
+         x="91.257462"
+         y="70.0364" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="71.624771"
+         y="74.583107"
+         id="text867"><tspan
+           sodipodi:role="line"
+           id="tspan865"
+           x="71.624771"
+           y="74.583107"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:0.264583">Acessar</tspan></text>
+      <text
+         id="text871"
+         y="74.640808"
+         x="92.803207"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:0.264583"
+           y="74.640808"
+           x="92.803207"
+           id="tspan869"
+           sodipodi:role="line">Cadastrar</tspan></text>
+      <text
+         id="text875"
+         y="58.76582"
+         x="70.526024"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583"
+           y="58.76582"
+           x="70.526024"
+           id="tspan873"
+           sodipodi:role="line">E-mail</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="70.526024"
+         y="66.703316"
+         id="text879"><tspan
+           sodipodi:role="line"
+           id="tspan877"
+           x="70.526024"
+           y="66.703316"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">Senha</tspan></text>
+    </g>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:#ffffff;stroke:#003399;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill"
+       id="rect1021"
+       width="49.514877"
+       height="84.666664"
+       x="129.81587"
+       y="124.69431" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       transform="translate(-16.744369,106.36251)"
+       id="g1029">
+      <rect
+         style="fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.319018;stroke-linecap:round;paint-order:markers stroke fill"
+         id="rect1023"
+         width="14.423649"
+         height="6.5819368"
+         x="179.45641"
+         y="19.25519" />
+      <text
+         id="text1027"
+         y="23.859598"
+         x="181.00215"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:0.264583"
+           y="23.859598"
+           x="181.00215"
+           id="tspan1025"
+           sodipodi:role="line">Salvar</tspan></text>
+    </g>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="133.34538"
+       y="130.9437"
+       id="text1033"><tspan
+         sodipodi:role="line"
+         id="tspan1031"
+         x="133.34538"
+         y="130.9437"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#003399;stroke-width:0.264583">&lt;&lt; JobSearch</tspan></text>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:none;stroke:#003399;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.70935,132.93416 h 44.63403"
+       id="path1035" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill"
+       id="rect1037"
+       width="43.278275"
+       height="6.4255953"
+       x="132.97198"
+       y="134.14371" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.27335"
+       y="138.66998"
+       id="text1043"><tspan
+         sodipodi:role="line"
+         id="tspan1041"
+         x="135.27335"
+         y="138.66998"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">Empresa</tspan></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="141.55205"
+       x="132.97198"
+       height="6.4255953"
+       width="43.278275"
+       id="rect1065"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text1069"
+       y="146.07832"
+       x="135.27335"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583"
+         y="146.07832"
+         x="135.27335"
+         id="tspan1067"
+         sodipodi:role="line">Título</tspan></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill"
+       id="rect1071"
+       width="43.278275"
+       height="6.4255953"
+       x="132.97198"
+       y="148.96043" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.27335"
+       y="153.48671"
+       id="text1075"><tspan
+         sodipodi:role="line"
+         id="tspan1073"
+         x="135.27335"
+         y="153.48671"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">Cidade-UF</tspan></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="156.36874"
+       x="132.97198"
+       height="6.4255953"
+       width="43.278275"
+       id="rect1077"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text1081"
+       y="160.89502"
+       x="135.27335"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583"
+         y="160.89502"
+         x="135.27335"
+         id="tspan1079"
+         sodipodi:role="line">Salário</tspan></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill"
+       id="rect1083"
+       width="43.278275"
+       height="6.4255953"
+       x="132.97198"
+       y="163.77713" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.27335"
+       y="168.30341"
+       id="text1087"><tspan
+         sodipodi:role="line"
+         id="tspan1085"
+         x="135.27335"
+         y="168.30341"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">Tipo Contrato</tspan></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="171.18552"
+       x="132.97198"
+       height="6.4255953"
+       width="43.278275"
+       id="rect1089"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text1093"
+       y="175.71179"
+       x="135.27335"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583"
+         y="175.71179"
+         x="135.27335"
+         id="tspan1091"
+         sodipodi:role="line">Tecnologias</tspan></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill"
+       id="rect1095"
+       width="43.278275"
+       height="6.4255953"
+       x="132.97198"
+       y="178.5939" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.27335"
+       y="183.12018"
+       id="text1099"><tspan
+         sodipodi:role="line"
+         id="tspan1097"
+         x="135.27335"
+         y="183.12018"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">Descrição Empresa</tspan></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="186.00229"
+       x="132.97198"
+       height="6.4255953"
+       width="43.278275"
+       id="rect1101"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text1105"
+       y="190.52856"
+       x="135.27335"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583"
+         y="190.52856"
+         x="135.27335"
+         id="tspan1103"
+         sodipodi:role="line">Descrição Vaga</tspan></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill"
+       id="rect1107"
+       width="43.278275"
+       height="6.4255953"
+       x="132.97198"
+       y="193.41068" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.27335"
+       y="197.93695"
+       id="text1111"><tspan
+         sodipodi:role="line"
+         id="tspan1109"
+         x="135.27335"
+         y="197.93695"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">Benefícios</tspan></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="200.81898"
+       x="132.97198"
+       height="6.4255953"
+       width="43.278275"
+       id="rect1113"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text1117"
+       y="205.34526"
+       x="135.27335"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583"
+         y="205.34526"
+         x="135.27335"
+         id="tspan1115"
+         sodipodi:role="line">E-mail</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text966"
+       y="14.558602"
+       x="18.647135"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#003399;stroke-width:0.264583"
+         y="14.558602"
+         x="18.647135"
+         id="tspan964"
+         sodipodi:role="line">Splashscreen</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="80.030472"
+       y="14.558602"
+       id="text970"><tspan
+         sodipodi:role="line"
+         id="tspan968"
+         x="80.030472"
+         y="14.558602"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#003399;stroke-width:0.264583">Tela de Login</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text974"
+       y="10.54956"
+       x="153.55363"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#003399;stroke-width:0.264583"
+         y="10.54956"
+         x="153.55363"
+         id="tspan972"
+         sodipodi:role="line">Tela de Cadastro </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#003399;stroke-width:0.264583"
+         y="14.959285"
+         x="153.55363"
+         sodipodi:role="line"
+         id="tspan976">de novo usuário</tspan></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="18.331844"
+       x="6.9802065"
+       height="84.666664"
+       width="49.514877"
+       id="rect841"
+       style="fill:#003399;stroke:#003399;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill" />
+    <image
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="49.930653"
+       x="21.771429"
+       width="21.469049"
+       height="21.469049"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 mK6wogAAAABJRU5ErkJggg== "
+       id="image853" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="124.69431"
+       x="8.491497"
+       height="84.666664"
+       width="49.514877"
+       id="rect881"
+       style="fill:#ffffff;stroke:#003399;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill" />
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="g935"
+       transform="translate(-139.70003,106.36251)">
+      <rect
+         y="19.25519"
+         x="179.45641"
+         height="6.5819368"
+         width="14.423649"
+         id="rect926"
+         style="fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.319018;stroke-linecap:round;paint-order:markers stroke fill" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="181.00215"
+         y="23.859598"
+         id="text930"><tspan
+           sodipodi:role="line"
+           id="tspan928"
+           x="181.00215"
+           y="23.859598"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:0.264583">Inserir</tspan></text>
+    </g>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text885"
+       y="130.9437"
+       x="10.389729"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#003399;stroke-width:0.264583"
+         y="130.9437"
+         x="10.389729"
+         id="tspan883"
+         sodipodi:role="line">JobSearch</tspan></text>
+    <path
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="path887"
+       d="M 9.7537043,132.93416 H 54.387707"
+       style="fill:none;stroke:#003399;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="134.14371"
+       x="10.016338"
+       height="6.4255953"
+       width="43.278275"
+       id="rect889"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.545999;stroke-linecap:round;paint-order:markers stroke fill" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.388371;stroke-linecap:round;paint-order:markers stroke fill"
+       id="rect891"
+       width="21.896713"
+       height="6.4255953"
+       x="10.016338"
+       y="142.08122" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text907"
+       y="138.66998"
+       x="12.317695"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583"
+         y="138.66998"
+         x="12.317695"
+         id="tspan905"
+         sodipodi:role="line">Pesquisa</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="12.317695"
+       y="146.60748"
+       id="text911"><tspan
+         sodipodi:role="line"
+         id="tspan909"
+         x="12.317695"
+         y="146.60748"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">Cidade/UF</tspan></text>
+    <g
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="g916"
+       transform="translate(-116.41668,106.36251)">
+      <rect
+         y="35.640564"
+         x="149.46579"
+         height="6.5819368"
+         width="20.518515"
+         id="rect895"
+         style="fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.380496;stroke-linecap:round;paint-order:markers stroke fill" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="151.01157"
+         y="40.244976"
+         id="text903"><tspan
+           sodipodi:role="line"
+           id="tspan901"
+           x="151.01157"
+           y="40.244976"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:0.264583">Encontrar</tspan></text>
+    </g>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="10.730199"
+       y="152.42831"
+       id="text920"><tspan
+         sodipodi:role="line"
+         id="tspan918"
+         x="10.730199"
+         y="152.42831"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#bfbfbf;stroke-width:0.264583">Sua pesquisa retornou 2 registros</tspan></text>
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.884145;stroke-linecap:round;paint-order:markers stroke fill"
+       id="rect922"
+       width="43.278275"
+       height="16.849108"
+       x="10.016338"
+       y="155.31039" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       y="174.36044"
+       x="10.016338"
+       height="16.849108"
+       width="43.278275"
+       id="rect924"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.884145;stroke-linecap:round;paint-order:markers stroke fill" />
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="31.569349"
+       y="162.50591"
+       id="text1121"><tspan
+         sodipodi:role="line"
+         id="tspan1119"
+         x="31.569349"
+         y="162.50591"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#bfbfbf;stroke-width:0.264583">Resumo Detalhe</tspan><tspan
+         sodipodi:role="line"
+         x="31.569349"
+         y="166.91563"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#bfbfbf;stroke-width:0.264583"
+         id="tspan1123">Vaga 1</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text1129"
+       y="181.55595"
+       x="31.56418"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#bfbfbf;stroke-width:0.264583"
+         y="181.55595"
+         x="31.56418"
+         id="tspan1125"
+         sodipodi:role="line">Resumo Detalhe</tspan><tspan
+         id="tspan1127"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#bfbfbf;stroke-width:0.264583"
+         y="185.96568"
+         x="31.56418"
+         sodipodi:role="line">Vaga 2</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       id="text1118"
+       y="120.39194"
+       x="16.757254"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#003399;stroke-width:0.264583"
+         y="120.39194"
+         x="16.757254"
+         id="tspan1116"
+         sodipodi:role="line">Tela de Pesquisa</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="137.40726"
+       y="117.21695"
+       id="text1122"><tspan
+         sodipodi:role="line"
+         id="tspan1120"
+         x="137.40726"
+         y="117.21695"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#003399;stroke-width:0.264583">Tela de cadastro</tspan><tspan
+         id="tspan1124"
+         sodipodi:role="line"
+         x="137.40726"
+         y="121.62667"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#003399;stroke-width:0.264583">de novo emprego</tspan></text>
+    <text
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#003399;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="92.68734"
+       y="117.21695"
+       id="text1128"><tspan
+         sodipodi:role="line"
+         id="tspan1126"
+         x="92.68734"
+         y="117.21695"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#003399;stroke-width:0.264583">Tela de detalhes</tspan><tspan
+         id="tspan1130"
+         sodipodi:role="line"
+         x="92.68734"
+         y="121.62667"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#003399;stroke-width:0.264583">do emprego</tspan></text>
+  </g>
+</svg>

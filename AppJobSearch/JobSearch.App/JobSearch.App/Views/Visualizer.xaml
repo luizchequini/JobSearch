@@ -34,8 +34,8 @@
                             <RowDefinition/>
                         </Grid.RowDefinitions>
 
-                        <Label Text="Easy Projetos" Style="{StaticResource CompanyCityStateLabel}"/>
-                        <Label Style="{StaticResource JobTitleLabel}" Grid.Column="1" HorizontalOptions="End">
+                        <Label Text="Easy Projetos" Style="{StaticResource TextSecundary}"/>
+                        <Label Style="{StaticResource TextPrimary}" Grid.Column="1" HorizontalOptions="End">
                             <Label.FormattedText>
                                 <FormattedString>
                                     <Span Text="Pub. "/>
@@ -44,44 +44,44 @@
                             </Label.FormattedText>
                         </Label>
 
-                        <Label Text="Back-End Developer" Style="{StaticResource JobTitleLabel}" Grid.Row="1"/>
+                        <Label Text="Back-End Developer" Style="{StaticResource TextPrimary}" Grid.Row="1"/>
                         <Label Style="{StaticResource IdLabel}" Grid.Row="1" Grid.Column="1" >
                             <Label.FormattedText>
                                 <FormattedString>
-                                    <Span Text="id. " Style="{StaticResource MoneyLabel}"/>
+                                    <Span Text="id. " Style="{StaticResource TitlePrimary}"/>
                                     <Span Text="12345" Style="{StaticResource CurrencyLabel}"/>
                                 </FormattedString>
                             </Label.FormattedText>
                         </Label>
 
-                        <Label Text="São Paulo, SP" Style="{StaticResource CompanyCityStateLabel}" Grid.Row="2"/>
+                        <Label Text="São Paulo, SP" Style="{StaticResource TextSecundary}" Grid.Row="2"/>
                         <Label Grid.Row="3" Grid.ColumnSpan="2">
                             <Label.FormattedText>
                                 <FormattedString>
-                                    <Span Text="7.0-11k, " Style="{StaticResource MoneyLabel}"/>
+                                    <Span Text="7.0-11k, " Style="{StaticResource TitlePrimary}"/>
                                     <Span Text="BRL" Style="{StaticResource CurrencyLabel}"/>
                                 </FormattedString>
                             </Label.FormattedText>
                         </Label>
-                        <Label Text="CLT" Style="{StaticResource JobTitleLabel}" Grid.Row="4"/>
+                        <Label Text="CLT" Style="{StaticResource TextPrimary}" Grid.Row="4"/>
                         <Label Text="C++, Node" Grid.Row="5"/>
                     </Grid>
 
 
-                    <Label Text="Interessados enviar e-mail para:"  Style="{StaticResource JobTitleLabel}"/>
-                    <Label Text="rh@sigaideia.com.br" Style="{StaticResource CompanyCityStateLabel}"/>
+                    <Label Text="Interessados enviar e-mail para:"  Style="{StaticResource TextPrimary}"/>
+                    <Label Text="rh@sigaideia.com.br" Style="{StaticResource TextSecundary}"/>
 
                     <BoxView Color="#DCDCDC" HeightRequest="1"/>
 
-                    <Label Text="Descrição da empresa" Style="{StaticResource MoneyLabel}"/>
-                    <Label Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." Style="{StaticResource JobTitleLabel}"/>
+                    <Label Text="Descrição da empresa" Style="{StaticResource TitlePrimary}"/>
+                    <Label Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." Style="{StaticResource TextPrimary}"/>
 
-                    <Label Text="Descrição do trabalho" Style="{StaticResource MoneyLabel}"/>
-                    <Label Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." Style="{StaticResource JobTitleLabel}"/>
+                    <Label Text="Descrição do trabalho" Style="{StaticResource TitlePrimary}"/>
+                    <Label Text="Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book." Style="{StaticResource TextPrimary}"/>
 
-                    <Label Text="Benefícios" Style="{StaticResource MoneyLabel}"/>
-                    <Label Text="Vale Transporte" Style="{StaticResource JobTitleLabel}"/>
-                    <Label Text="Vale Alimentação" Style="{StaticResource JobTitleLabel}"/>
+                    <Label Text="Benefícios" Style="{StaticResource TitlePrimary}"/>
+                    <Label Text="Vale Transporte" Style="{StaticResource TextPrimary}"/>
+                    <Label Text="Vale Alimentação" Style="{StaticResource TextPrimary}"/>
                 </StackLayout>
             </ScrollView>
         </StackLayout>

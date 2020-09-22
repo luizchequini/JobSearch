@@ -50,8 +50,8 @@
             <Label>
                 <Label.FormattedText>
                     <FormattedString>
-                        <Span Text="2 resultados em " Style="{StaticResource JobTitleLabel}"/>
-                        <Span Text="São Paulo, SP" Style="{StaticResource CompanyCityStateLabel}"/>
+                        <Span Text="2 resultados em " Style="{StaticResource TextPrimary}"/>
+                        <Span Text="São Paulo, SP" Style="{StaticResource TextSecundary}"/>
                     </FormattedString>
                 </Label.FormattedText>
             </Label>
@@ -71,15 +71,15 @@
                         <RowDefinition/>
                         <RowDefinition/>
                     </Grid.RowDefinitions>
-                    <Label Text="Easy Projetos" Style="{StaticResource CompanyCityStateLabel}" Grid.ColumnSpan="2"/>
-                    <Label Text="Back-End Developer" Style="{StaticResource JobTitleLabel}" Grid.Row="1"/>
-                    <Label Text="São Paulo, SP" Style="{StaticResource CompanyCityStateLabel}" Grid.Row="2"/>
+                    <Label Text="Easy Projetos" Style="{StaticResource TextSecundary}" Grid.ColumnSpan="2"/>
+                    <Label Text="Back-End Developer" Style="{StaticResource TextPrimary}" Grid.Row="1"/>
+                    <Label Text="São Paulo, SP" Style="{StaticResource TextSecundary}" Grid.Row="2"/>
                     <Label Text="C++, Node" Grid.Row="3"/>
 
                     <Label Grid.Row="1" Grid.Column="1">
                         <Label.FormattedText>
                             <FormattedString>
-                                <Span Text="7.0-11k, " Style="{StaticResource MoneyLabel}"/>
+                                <Span Text="7.0-11k, " Style="{StaticResource TitlePrimary}"/>
                                 <Span Text="BRL" Style="{StaticResource CurrencyLabel}"/>
                             </FormattedString>
                         </Label.FormattedText>
@@ -87,7 +87,7 @@
                     <Label Style="{StaticResource IdLabel}" Grid.Row="3" Grid.Column="1">
                         <Label.FormattedText>
                             <FormattedString>
-                                <Span Text="id. " Style="{StaticResource MoneyLabel}"/>
+                                <Span Text="id. " Style="{StaticResource TitlePrimary}"/>
                                 <Span Text="12345" Style="{StaticResource CurrencyLabel}"/>
                             </FormattedString>
                         </Label.FormattedText>
