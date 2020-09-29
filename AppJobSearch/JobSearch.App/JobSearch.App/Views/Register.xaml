@@ -17,6 +17,7 @@
             </Grid>
             
             <BoxView Color="#D7CCFF" HeightRequest="1"/>
+
             <Grid VerticalOptions="CenterAndExpand">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition/>
@@ -24,21 +25,25 @@
                 </Grid.ColumnDefinitions>
                 <Grid.RowDefinitions>
                     <RowDefinition/>
-                    <RowDefinition/>
-                    <RowDefinition/>
-                    <RowDefinition/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition Height="50"/>
                 </Grid.RowDefinitions>
-                <Frame StyleClass="EntryFrame" Grid.Row="0" Grid.ColumnSpan="2">
-                    <Entry Placeholder="Nome"/>
-                </Frame>
+
+                <Label Grid.Row="0" Grid.ColumnSpan="2" x:Name="TxtMessages" TextColor="OrangeRed"/>
+
                 <Frame StyleClass="EntryFrame" Grid.Row="1" Grid.ColumnSpan="2">
-                    <Entry Placeholder="E-mail"/>
+                    <Entry x:Name="TxtName" Placeholder="Nome"/>
                 </Frame>
                 <Frame StyleClass="EntryFrame" Grid.Row="2" Grid.ColumnSpan="2">
-                    <Entry Placeholder="Senha" IsPassword="True"/>
+                    <Entry x:Name="TxtEmail" Placeholder="E-mail"/>
+                </Frame>
+                <Frame StyleClass="EntryFrame" Grid.Row="3" Grid.ColumnSpan="2">
+                    <Entry x:Name="TxtPassword" Placeholder="Senha" IsPassword="True"/>
                 </Frame>
 
-                <Button Text="Acessar" Grid.Row="3"/>
+                <Button Text="Acessar" Clicked="SaveAction" Grid.Row="4"/>
             </Grid>
         </StackLayout>
     </ContentPage.Content>
